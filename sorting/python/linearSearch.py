@@ -3,4 +3,5 @@ def linear_search(arr, target):
         if arr[i] == target:
             return i
     return -1  # not found
+    
     # the time complexity is O(n) =linear
